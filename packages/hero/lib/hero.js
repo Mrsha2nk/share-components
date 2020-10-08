@@ -3,5 +3,6 @@
 module.exports = hero;
 
 function hero() {
-  return "hero";
+  const MSG = "hero";
+  return MSG;
 }
